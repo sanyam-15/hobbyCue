@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/06259c72-2487-4c4f-8348-0f6874c34763)
 # Getting Started with hobbyCue  
 This project was bootstrapped with Create React App.  
 
